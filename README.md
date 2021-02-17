@@ -9,4 +9,6 @@
 ###Graham Chapman
 ###Terry Jones
 
-[Ministry of silly walks](https://yandex.ru/images/search?from=tabbar&text=ministry%20of%20silly%20walks&pos=27&img_url=https%3A%2F%2Fsun9-44.userapi.com%2Fwn4GOmKPKjy6VthrFWYLJeVQoLLrkPpt-4B2dg%2FhTQEJr3jwzo.jpg)
+[Ministry of silly walks](https://img.pngio.com/the-ministry-of-silly-walks-by-goonofhazzard-on-deviantart-ministry-of-silly-walks-png-880_1183.jpg)
+
+[Ссылка на репозиторий](https://github.com/nick-volkov/CD101)
